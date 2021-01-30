@@ -1,0 +1,23 @@
+.container{
+    margin-top: 2%;;
+    padding-top: 2%;
+    background-color: skyblue;
+    padding-bottom: 2%;
+    border-radius: 5%;   
+}
+
+.container h1{
+    display: flex;
+    justify-content: center;
+     font-family: 'Open Sans', sans-serif;
+}
+
+.d-flex{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-primary{
+    display: flex;
+    justify-content: center;
+}
